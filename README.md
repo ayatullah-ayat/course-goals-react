@@ -1,1 +1,1 @@
-Init
+## Course Goals
